@@ -1,0 +1,1 @@
+export const GET_MAGAZINES = "GET_MAGAZINES" 
